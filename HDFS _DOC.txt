@@ -10,10 +10,3 @@
 		Hands on experience in setting up workflow using Apache Airflow and Oozie workflow engine for managing and scheduling Hadoop jobs
 		Install and configure Apache Airflow for S3 bucket and Snowflake data warehouse and created dags to run the Airflow
 		Automated resulting scripts and workflow using Apache Airflow and shell scripting to ensure daily execution in production
-•	Sql
-	◦	Developed Advance PL/SQL packages, procedures, triggers, functions, Indexes and Collections to implement business logic using SQL Navigator.
-	◦	Involved in converting SQL queries into Spark transformations using Spark RDDs, Scala
-	◦	used SQL and NOSQL database such as Snowflake, HBase, Cassandra and MongoDB
-		While working at Gainsight, we created conceptual, logical, and physical data models, data dictionaries, and used DDL and DML to deploy and load 		database table structures in support of system requirements
-	◦	Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs and Scala
-	◦	Worked on Data modelling, Advanced SQL with Columnar Databases using AWS
