@@ -1,0 +1,24 @@
+
+•	Snowflake
+		I have experience in snowflake cloud data warehouse and AWS S3 bucket for integrating data from multiple source system which include loading  		nested JSON formatted data into snowflake table. 
+		I have Designed and Developed ETL Processes in AWS Glue to migrate Campaign data from external sources like S3, ORC/Parquet/Text Files into   		AWS Redshift.
+•	Aws lambda
+		Experience with event-driven and scheduled AWS Custom Lambda (Python) functions to trigger various AWS resources
+		we have built a Terraform for building AWS infrastructure services like EC2, Lambda and S3. 
+
+•	Airflow
+		Hands on experience in setting up workflow using Apache Airflow and Oozie workflow engine for managing and scheduling Hadoop jobs
+		Install and configure Apache Airflow for S3 bucket and Snowflake data warehouse and created dags to run the Airflow
+		Automated resulting scripts and workflow using Apache Airflow and shell scripting to ensure daily execution in production
+•	Sql
+	◦	Developed Advance PL/SQL packages, procedures, triggers, functions, Indexes and Collections to implement business logic using SQL Navigator.
+	◦	Involved in converting SQL queries into Spark transformations using Spark RDDs, Scala
+	◦	used SQL and NOSQL database such as Snowflake, HBase, Cassandra and MongoDB
+		While working at Gainsight, we created conceptual, logical, and physical data models, data dictionaries, and used DDL and DML to deploy and load 		database table structures in support of system requirements
+	◦	Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs and Scala
+	◦	Worked on Data modelling, Advanced SQL with Columnar Databases using AWS
+•	Python
+	◦	we have used pandas framework for small ETL workloads. And any files that are less than one GB. 
+	◦	We are trying to use Pandas for quick analysis. So Python is very easy to start, and it is functional and object oriented programming language. 
+	◦	We have used many python scripts,Some of them are to connect to database for quick loading and unloading of data into flat files.
+	◦	Experience with Requests, Report Lab, NumPy, SciPy, Pytables, cv2, imageio, Python-Twitter, Matplotlib, HTTPLib2, Urllib2, Beautiful Soup, Data   		Frame and Pandas python libraries during development lifecycle
