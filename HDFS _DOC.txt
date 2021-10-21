@@ -17,8 +17,3 @@
 		While working at Gainsight, we created conceptual, logical, and physical data models, data dictionaries, and used DDL and DML to deploy and load 		database table structures in support of system requirements
 	◦	Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs and Scala
 	◦	Worked on Data modelling, Advanced SQL with Columnar Databases using AWS
-•	Python
-	◦	we have used pandas framework for small ETL workloads. And any files that are less than one GB. 
-	◦	We are trying to use Pandas for quick analysis. So Python is very easy to start, and it is functional and object oriented programming language. 
-	◦	We have used many python scripts,Some of them are to connect to database for quick loading and unloading of data into flat files.
-	◦	Experience with Requests, Report Lab, NumPy, SciPy, Pytables, cv2, imageio, Python-Twitter, Matplotlib, HTTPLib2, Urllib2, Beautiful Soup, Data   		Frame and Pandas python libraries during development lifecycle
