@@ -1,12 +1,2 @@
 
-•	Snowflake
-		I have experience in snowflake cloud data warehouse and AWS S3 bucket for integrating data from multiple source system which include loading  		nested JSON formatted data into snowflake table. 
-		I have Designed and Developed ETL Processes in AWS Glue to migrate Campaign data from external sources like S3, ORC/Parquet/Text Files into   		AWS Redshift.
-•	Aws lambda
-		Experience with event-driven and scheduled AWS Custom Lambda (Python) functions to trigger various AWS resources
-		we have built a Terraform for building AWS infrastructure services like EC2, Lambda and S3. 
 
-•	Airflow
-		Hands on experience in setting up workflow using Apache Airflow and Oozie workflow engine for managing and scheduling Hadoop jobs
-		Install and configure Apache Airflow for S3 bucket and Snowflake data warehouse and created dags to run the Airflow
-		Automated resulting scripts and workflow using Apache Airflow and shell scripting to ensure daily execution in production
